@@ -4,5 +4,5 @@
 
 Recipe Picks:
 
-- January: [Vanilla Paula Cotta](../recipe/jan/vanilla-panna-cotta.md)
+- January: [Vanilla Panna Cotta](../recipe/jan/vanilla-panna-cotta.md)
 - February: [Ana](../recipe/jan/vanilla-panna-cotta.md)
