@@ -4,4 +4,4 @@
 
 Recipe Picks:
 
-- January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
+- January: [Gerrad Piqué Salad](../recipe/jan/grilled-peach-salad.md)
