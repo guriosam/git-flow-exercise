@@ -2,6 +2,8 @@
 
 ## Background
 
+Fixing something
+
 The print magazine _Flavor_ has asked your firm to build and maintain an app so they can share recipes with their hungry audience.
 
 The typical development cycle for the project is as follows:
